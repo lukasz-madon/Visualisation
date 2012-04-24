@@ -1,0 +1,5 @@
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\Wiz\Wiz.Web\bin\Wiz.Web.dll
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\Wiz\Wiz.Web\bin\Wiz.Web.pdb
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\Wiz\Wiz.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\Wiz\Wiz.Web\obj\Release\Wiz.Web.dll
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\Wiz\Wiz.Web\obj\Release\Wiz.Web.pdb
