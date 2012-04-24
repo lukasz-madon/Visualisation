@@ -1,9 +1,7 @@
-# Dirs project specific
-Wiz/Bin/
-Wiz/obj/ 
-Wiz.Web/Bin/ 
-Wiz.Web/obj/  
-
+# Visual Studios user file
+*.suo
+Debug/
+Release/
 
 # Compiled source #
 ###################

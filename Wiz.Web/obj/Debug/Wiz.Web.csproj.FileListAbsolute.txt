@@ -1,5 +1,0 @@
-c:\users\lukas\documents\visual studio 2010\Projects\Wiz\Wiz.Web\bin\Wiz.Web.dll
-c:\users\lukas\documents\visual studio 2010\Projects\Wiz\Wiz.Web\bin\Wiz.Web.pdb
-c:\users\lukas\documents\visual studio 2010\Projects\Wiz\Wiz.Web\obj\Debug\ResolveAssemblyReference.cache
-c:\users\lukas\documents\visual studio 2010\Projects\Wiz\Wiz.Web\obj\Debug\Wiz.Web.dll
-c:\users\lukas\documents\visual studio 2010\Projects\Wiz\Wiz.Web\obj\Debug\Wiz.Web.pdb
