@@ -4,6 +4,7 @@ Debug/
 Release/
 obj/
 bin/
+!NuGet.exe
 
 # Compiled source #
 ###################
