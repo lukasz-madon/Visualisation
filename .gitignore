@@ -2,6 +2,8 @@
 *.suo
 Debug/
 Release/
+obj/
+bin/
 
 # Compiled source #
 ###################
